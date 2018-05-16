@@ -1,1 +1,0 @@
-# stopoint-frontend
